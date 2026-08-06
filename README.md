@@ -9,7 +9,7 @@
 ## 🔧 Skills
 - Python  
 - C  
-- HTML, CSS, JavaScript  
+- HTML, CSS,basic JavaScript  
 - Git & GitHub
 - DSC(data structure through c) 
 
@@ -17,7 +17,7 @@
 
 ## 📂 Projects
 - 📰 News App (In Progress)  
-- 📊 Customer Churn Prediction  
+- 📊 bus sthanam 
 
 ---
 
